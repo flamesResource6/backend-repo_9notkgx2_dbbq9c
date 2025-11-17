@@ -1,0 +1,103 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [152] using StatReload
+INFO:     Started server process [154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:35956 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:39252 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:39252 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:39262 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:39262 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:33646 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:47690 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:48630 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:48644 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:49816 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:53764 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:45056 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:45056 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:45056 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:45058 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:45058 - "OPTIONS /api/early-access HTTP/1.1" 200 OK
+INFO:     172.20.0.1:45058 - "POST /api/early-access HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:45058 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:54504 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:48476 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:48476 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:48492 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:48492 - "POST /api/early-access HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:46148 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:58034 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:51632 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:51636 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:56242 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:56242 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:58170 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:54678 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:54692 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:49634 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:49638 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:60028 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:47584 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:47596 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:47602 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:50326 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:43344 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:43354 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:44776 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:46822 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:46832 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:34360 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:39010 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:39020 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:39024 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:46068 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:47970 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:44466 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+WARNING:  StatReload detected changes in 'schemas.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [154]
+INFO:     Started server process [165]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:40460 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:40460 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:42896 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:49110 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:49118 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:40108 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:40110 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:36632 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:36640 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:44394 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:56774 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:60480 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+WARNING:  StatReload detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [165]
+INFO:     Started server process [171]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:60758 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:60758 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:60766 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:50622 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:50626 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:44512 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:40498 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:40502 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:55472 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:55484 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:56594 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:44134 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:44136 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:53682 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:53688 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:39846 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:49208 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:49224 - "GET /api/stats HTTP/1.1" 500 Internal Server Error
